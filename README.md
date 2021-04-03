@@ -9,7 +9,7 @@
 
 - 📫 Reach me @ **pranavrhegde@pesu.pes.edu**
 
-- 📄 About me [https://in.linkedin.com/in/pranavhegde006](https://in.linkedin.com/in/pranavhegde006)
+- 📄 More about me on <a href="https://in.linkedin.com/in/pranavhegde006"> LinkedIn <a>
 
 - 💻 Worked on **Cryptography, Chatbots, MERN** and many more technologies.
 
