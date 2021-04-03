@@ -13,6 +13,8 @@
 
 - 💻 Worked on **Cryptography, Chatbots, MERN** and many more technologies.
 
+- 🚘 None like **Porsche Panamera**.
+
 - 🦸‍♂️ Team stark
 
 - ⚡ Fun fact: **I like to collect fun facts!**
