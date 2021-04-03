@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
-- 🌱 I’m currently learning **NLP, Network security and MERN**
+- 🌱 I’m currently learning **NLP, Network security and MERN**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranavhegde006](https://github.com/pranavhegde006)
+- 📚 Currently a computer science sophomore at PES University, Bangalore.
+
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/pranavhegde006">Github</a>     [https://github.com/pranavhegde006](https://github.com/pranavhegde006).
 
 - 📫 How to reach me **pranavrhegde@pesu.pes.edu**
 
