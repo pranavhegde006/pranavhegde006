@@ -5,11 +5,15 @@
 
 - 📚 Currently a computer science sophomore at PES University, Bangalore.
 
-- 👨‍💻 All of my projects are available at  <a href="https://github.com/pranavhegde006">Github</a>     [https://github.com/pranavhegde006](https://github.com/pranavhegde006).
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/pranavhegde006">Github</a>
 
-- 📫 How to reach me **pranavrhegde@pesu.pes.edu**
+- 📫 Reach me @ **pranavrhegde@pesu.pes.edu**
 
 - 📄 About me [https://in.linkedin.com/in/pranavhegde006](https://in.linkedin.com/in/pranavhegde006)
+
+- 💻 Worked on **Cryptography, Chatbots, MERN** and many more technologies.
+
+- 🦸‍♂️ Team stark
 
 - ⚡ Fun fact: **I like to collect fun facts!**
 
