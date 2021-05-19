@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
-- 🌱 I’m currently learning **NLP, cybersecurity and MERN**.
+- 🌱 I’m currently learning **DL, cybersecurity and MERN**.
 
 - 📚 Currently a computer science sophomore at PES University, Bangalore.
 
