@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
-- 🌱 I’m currently learning **DL, cybersecurity and MERN**.
+- 🌱 I’m currently focusing on **Network security, Full stack development and Problem solving**.
 
-- 📚 Currently a computer science sophomore at PES University, Bangalore.
+- 📚 Currently a computer science junior at PES University, Bangalore.
 
-- 👨‍💻 All of my projects are available at  <a href="https://github.com/pranavhegde006">Github</a>
+- 👨‍💻 All of my projects are available <a href="https://github.com/pranavhegde006">here</a>.
 
 - 📫 Reach me @ **pranavrhegde@pesu.pes.edu**
 
 - 📄 More about me on <a href="https://in.linkedin.com/in/pranavhegde006"> LinkedIn <a>
 
-- 💻 Worked on **Cryptography, Chatbots, MERN** and many more technologies.
+- 💻 Worked on **MERN stack, Cryptography, various APIs** and many more technologies.
 
 - ⚡ Fun fact: **I like to collect fun facts!**
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/tabsoverspaces_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tabsoverspaces_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranavhegde006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranavhegde006" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav__hegde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranav__hegde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
