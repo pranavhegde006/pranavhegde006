@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
+<h1 align="center">Hey there 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
 - 🌱 I’m currently focusing on **Network security, Full stack development and Problem solving**.
