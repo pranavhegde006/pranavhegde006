@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on **Networks, security, Full stack development and Problem solving**.
 
-- 📚 Currently a computer science junior at PES University, Bangalore.
+- 📚 Currently a computer science senior at PES University, Bangalore.
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/pranavhegde006">here</a>.
 
